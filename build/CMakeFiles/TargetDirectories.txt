@@ -1,0 +1,14 @@
+C:/Users/Shawn/Desktop/small projects/simple-server/build/CMakeFiles/package.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/CMakeFiles/package_source.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/CMakeFiles/edit_cache.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/server/CMakeFiles/server.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/server/CMakeFiles/package.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/server/CMakeFiles/package_source.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/server/CMakeFiles/edit_cache.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/server/CMakeFiles/rebuild_cache.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/client/CMakeFiles/client.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/client/CMakeFiles/package.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/client/CMakeFiles/package_source.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/client/CMakeFiles/edit_cache.dir
+C:/Users/Shawn/Desktop/small projects/simple-server/build/client/CMakeFiles/rebuild_cache.dir
